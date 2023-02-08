@@ -11,7 +11,7 @@
  - React
  - Nextjs
  - Bootstrap
- - Tailwind
+ - Tailwind CSS
  - C#
  - API Rest
  - Entity Framework Core
