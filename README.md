@@ -26,6 +26,7 @@
  - Github
  - Figma
 
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosedu1&layout=compact&langs_count=7&theme=dark"/>
 
 ### 🌐 Linkedin
 
