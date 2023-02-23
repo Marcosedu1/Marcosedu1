@@ -1,6 +1,6 @@
 ## 👋 Hello there, I'm **Marcos Eduardo**
 
-- 📒 Current learning **Analysis and Systems Development** at [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
+- 📒 Current studying **Analysis and Systems Development** at [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
 
 ### ⚡️ Skills
 
@@ -26,6 +26,10 @@
  - Github
  - Figma
 
+**Current learning**
+- Java
+- PHP
+- Laravel Framework
 
 ### 🌐 Linkedin
 
