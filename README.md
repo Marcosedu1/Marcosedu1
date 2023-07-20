@@ -13,6 +13,8 @@
  - Bootstrap
  - Tailwind CSS
  - C#
+ - Java
+ - PHP
  - API Rest
  - Entity Framework Core
  - SQL 
@@ -25,11 +27,6 @@
  - Git
  - Github
  - Figma
-
-**Current learning**
-- Java
-- PHP
-- Laravel Framework
 
 ### 🌐 Linkedin
 
