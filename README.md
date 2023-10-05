@@ -4,8 +4,10 @@
 
 ### ⚡️ Skills
 
-**Languages and Libraries**
+**Technologies**
 
+ - HTML
+ - CSS
  - JavaScript
  - TypeScript
  - React
